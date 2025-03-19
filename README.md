@@ -22,14 +22,14 @@ pip install selenium
 
 Selenium requires ChromeDriver to interact with the Chrome browser.
 
-    Download ChromeDriver from
-    ```
-    https://sites.google.com/chromium.org/driver/
-    ```
-    Choose the version matching your Chrome browser version.
-    Extract the file and place it in a known location (e.g., C:\chromedriver.exe on Windows or /usr/local/bin/chromedriver on macOS/Linux).
+Download ChromeDriver from
+```
+https://sites.google.com/chromium.org/driver/
+```
+Choose the version matching your Chrome browser version.
+Extract the file and place it in a known location (e.g., C:\chromedriver.exe on Windows or /usr/local/bin/chromedriver on macOS/Linux).
 
 3. Run
-   ```
-   python wordpressbrute.py
-   ```
+```
+python wordpressbrute.py
+```
